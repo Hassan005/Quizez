@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz#1</string>
+    <string-array name="Languages">
+        <item>Python</item>
+        <item>Java</item>
+        <item>C++</item>
+        <item>Android</item>
+    </string-array>
+</resources>
